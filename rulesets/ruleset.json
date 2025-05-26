@@ -30,6 +30,11 @@
   ],
   "rules": [
     {
+      "id": "AA0228",
+      "action": "Warning",
+      "justification": "For testing."
+    },
+    {
       "id": "AA0215",
       "action": "None",
       "justification": "For testing."
