@@ -13,7 +13,7 @@ pageextension 50000 VendorListExt extends "Vendor List"
     var
         TokenPaths: List of [Text];
     begin
-        Message('Test: %1', MessageToTest);
+        Message('Testing: %1', MessageToTest);
     end;
 }
 
