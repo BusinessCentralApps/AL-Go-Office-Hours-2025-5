@@ -6,6 +6,6 @@
   "enableCodeCop": true,
   "enablePerTenantExtensionCop": true,
   "enableUICop": true,
-  "failOn": "newWarning",
+  "failOn": "onNewWarnings",
   "rulesetFile": "./rulesets/ruleset.json"
 }
