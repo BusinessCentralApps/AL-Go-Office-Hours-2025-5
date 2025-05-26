@@ -30,6 +30,16 @@
   ],
   "rules": [
     {
+      "id": "AA0215",
+      "action": "None",
+      "justification": "For testing."
+    },
+    {
+      "id": "AA0247",
+      "action": "None",
+      "justification": "For testing."
+    },
+    {
       "id": "AL0797",
       "action": "None",
       "justification": "Tables are moved from BaseApp to BCApps."
