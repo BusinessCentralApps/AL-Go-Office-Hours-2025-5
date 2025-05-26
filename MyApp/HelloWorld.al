@@ -8,5 +8,12 @@ pageextension 50000 VendorListExt extends "Vendor List"
     begin
         Message('App published: Hello world');
     end;
+
+    local procedure Test(MessageToTest: Text)
+    var
+        TokenPaths: List of [Text];
+    begin
+        Message('Test: %1', MessageToTest);
+    end;
 }
 
